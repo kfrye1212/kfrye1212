@@ -9,7 +9,7 @@ This repo contains config files and special content that powers my GitHub profil
 
 - **Purpose**: Store custom profile content and configuration files.
 - **Languages Used**:  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-89.1%25-yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-10.9%25-blue)
+Badges showing JavaScript at 89.1 percent in yellow and TypeScript at 10.9 percent in blue, representing the primary programming languages used in this repository; the badges are styled for a technical and informative tone within a developer-focused environment
 - **Features**:  
   - Profile README.md (this file)
   - GitHub Actions for automation (if applicable)
